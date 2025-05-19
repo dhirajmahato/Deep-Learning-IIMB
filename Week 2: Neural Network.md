@@ -1,4 +1,4 @@
-## Neurons
+## Neural network
 ## Perceptron networks
 ### Multi-Layer Perceptron networks
 ## gradient descent algorithm
