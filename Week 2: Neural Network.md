@@ -1,4 +1,5 @@
 ## Neural network
+Src: [video](https://youtu.be/BUTjcAjfMgY)
 ### Components
 1. Neuron
 2. Activation Function
