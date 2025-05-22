@@ -20,7 +20,7 @@ A Perceptron network is a basic type of artificial neural network with a single 
 ## Multi-Layer Perceptron networks
 Multi-Layer Perceptron (MLP) networks, which include hidden layers, overcome the limitations of single-layer Perceptrons by enabling non-linear transformations. This allows MLPs to model complex logic functions effectively. An MLP is an artificial neural network with multiple layers that can learn and represent non-linear relationships, capturing intricate patterns. To improve predictions, MLP networks use back-propagation and gradient descent to adjust weights. This makes them well-suited for tasks like classification and regression, where capturing complex patterns and relationships is crucial.
 
-## gradient descent algorithm
+## Gradient Descent Algorithm
 gradient descent optimizes models by iteratively updating parameters to reduce the cost function, ultimately improving accuracy and predictions.
 
 **Types**
