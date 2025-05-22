@@ -14,6 +14,9 @@ Multi-Layer Perceptron (MLP) networks, which include hidden layers, overcome the
 ## gradient descent algorithm
 gradient descent optimizes models by iteratively updating parameters to reduce the cost function, ultimately improving accuracy and predictions.
 <img width="1273" alt="Screenshot 2025-05-20 at 9 36 59 AM" src="https://github.com/user-attachments/assets/7c533316-766e-44c7-b96b-92a4a721377f" />
+<img width="1297" alt="Screenshot 2025-05-22 at 11 21 40 AM" src="https://github.com/user-attachments/assets/b3a6061d-2367-4afa-a6e5-0674cd698ce9" />
+
+
 
 ## Activation Function 
 src: [here](https://youtu.be/GbZBVMuBhOM)
