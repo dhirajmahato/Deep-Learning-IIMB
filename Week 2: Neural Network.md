@@ -37,3 +37,5 @@ It brings nonlinerilty for the output layer.
 4. Softmax
 
 ## back-propagation algorithm
+## Hyperparameter
+Key hyperparameters include the learning rate, the number of hidden layers, the number of neurons per layer, activation functions, batch size, regularization parameters, dropout rate, and the optimization algorithm. 
