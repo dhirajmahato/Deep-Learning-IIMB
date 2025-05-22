@@ -38,4 +38,13 @@ It brings nonlinerilty for the output layer.
 
 ## back-propagation algorithm
 ## Hyperparameter
-Key hyperparameters include the learning rate, the number of hidden layers, the number of neurons per layer, activation functions, batch size, regularization parameters, dropout rate, and the optimization algorithm, no of iterations.
+Key hyperparameters:
+1. the number of hidden layers, depends 
+2. the number of neurons per layer,
+3. learning rate, 
+4. activation functions,
+5. batch size, 
+6. regularization parameters,
+7. dropout rate, and
+8. the optimization algorithm,
+9. no of iterations.
