@@ -1,4 +1,13 @@
 ## Neural network
+### Components
+1. Neuron
+2. Activation Function
+3. Layers
+4. Architecture
+5. Optimizer
+6. hyperparameter
+
+
 <img width="775" alt="Screenshot 2025-05-19 at 8 55 14 AM" src="https://github.com/user-attachments/assets/d4d1a474-f174-4967-b3f9-e6bb7a5bc91b" />
 <img width="1376" alt="Screenshot 2025-05-22 at 11 16 09 AM" src="https://github.com/user-attachments/assets/619dd390-2152-4bed-b4f7-7955a5569f4c" />
 
