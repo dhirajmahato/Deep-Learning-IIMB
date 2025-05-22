@@ -44,7 +44,7 @@ It brings nonlinerilty for the output layer.
 
 ## back-propagation algorithm
 ## Hyperparameter
-src: [!Video2](https://youtu.be/HIbXm4Sde7Q)
+src: [Video2](https://youtu.be/HIbXm4Sde7Q)
 Key hyperparameters:
 1. the number of hidden layers, depends 
 2. the number of neurons per layer,
